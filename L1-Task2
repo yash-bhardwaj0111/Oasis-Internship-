@@ -1,0 +1,72 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Portfolio</title>
+</head>
+<body>
+<div>
+    <h1>Yash Bhardwaj</h1>
+    <p>Contact:<a href="abcd@gmail.com">yashbhardwaj0115@gmail.com</a></p>
+    <p>LinkedIn:<a href="https://www.linkedin.com">"https://www.linkedin.com/in/yash-bhardwaj-15233a253/"</a></p>
+    <p>GitHub:<a href="https://github.com/yashbhardwaj">"https://github.com/Yash-Bhardwaj2005"</a></p>
+</div>    
+<table>
+    <thead>
+        <tr>
+            <td> <img src="YASHBH-removebg-preview (1).png" width="100px" height="100px" alt="Yash Bhardwaj Pic."></td>
+            <td><p>I want to become a passionate Software engineer with expertise in problem-solving and algorithm thinking.I will love to explore various technologies and frameworks to develop efficient and scalable solutions. With a strong foundation in data structures and algorithms .
+            I am always seeking opportunities to learn and grow. I have a strong desire to acquire new skills and knowledge.I am constantly expanding my skills and staying up-to-date with the latest advancement in the field of software development.   </p></td>
+        </td>
+        </thead>
+        </table>
+    <h2>Education:</h2>
+    <p>
+        <ul>
+            <li>Bachelor of Technology in Computer Science & Information Technology, KIET Group of Institutions</li>
+            <li>Blue Bird Senior Secondary School</li>
+        </ul>
+    </p>
+    <section>
+        <h2>Skills:</h2>
+        <ul>
+            <li>C++</li>
+            <li>C</li>
+            <li>Python</li>
+            <li>HTML</li>
+            <li>CSS</li>
+        </ul>
+    </section>
+    <h2>Achievements</h2>
+    <ul>
+        <li>I got Conference out twice from Service Selection Board(For Officer Entry in Indian Army & Indian Navy)</li>
+        <li>I got CRL Rank 77629 in my First Attempt of JEE Mains </li>
+        <li>I was awarded with Certificate of Merit for being the Most Regular Student in Class VIII</li>
+    </ul>
+    <h2>Projects</h2>
+    <ul>
+        <li>Basic Portfolio using HTML</li>
+    </ul>
+    <section>
+        <h2>Frequently Asked Questions:</h2>
+        <details><summary>What is your Future Goals?</summary>
+        <p>I want to become a passionate software developer at FAANG</p>
+    </details>
+    </section>
+    <section>
+        <details><summary>What is your roadmap in Web Development?</summary>
+        <p>I will be doing this development with my full expertise and sharping skills</p>
+    </details>
+    </section>
+    <section>
+        <details><summary>What more you will learn in present semester?</summary>
+        <p>I will not be exploring Machine Learning and Contribution in open source</p>
+    </details>
+    </section>
+    <br>
+    <footer>&#169; Yash Bhardwaj.All rights reserved.</footer>
+
+</body>
+</html>
