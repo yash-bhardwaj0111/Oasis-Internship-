@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Tribute to [Person's Name]</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            text-align: center;
+        }
+        header {
+            background-color: #333;
+            color: #fff;
+            padding: 20px;
+        }
+        h1 {
+            margin-top: 0;
+        }
+        main {
+            padding: 20px;
+        }
+        p {
+            margin-bottom: 20px;
+            line-height: 1.6;
+        }
+        img {
+            max-width: 100%;
+            height: auto;
+            border-radius: 5px;
+        }
+        footer {
+            background-color: #333;
+            color: #fff;
+            padding: 10px;
+            position: fixed;
+            bottom: 0;
+            width: 100%;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Tribute to [Person's Name]</h1>
+    </header>
+    <main>
+        <img src="person_image.jpg" alt="Person's Image">
+        <p>I admire [Person's Name] for many reasons. [Briefly describe why you admire them and what they have accomplished or contributed.]</p>
+        <p>[Person's Name] has inspired me to [describe how they have influenced you or what lessons you have learned from them].</p>
+        <p>[Additional paragraphs describing their achievements, qualities, or impact.]</p>
+    </main>
+    <footer>
+        <p>Created with ❤️ by [Your Name]</p>
+    </footer>
+</body>
+</html>
